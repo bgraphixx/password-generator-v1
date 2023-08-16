@@ -14,6 +14,14 @@ This is a simple Python script that generates random passwords based on specifie
 1. Download or clone the repository to your local machine.
 2. Open a terminal and navigate to the directory containing the script.
 
+### Running the Script
+
+Run the script using the following command:
+
+```bash
+python password_generator.py
+```
+
 ### Criteria Selection
 
 1. You will be prompted to input the minimum length for the password. Enter a valid integer value.
@@ -38,13 +46,6 @@ Generated Password: Ab4@Kc2!Dp5#
 ### Note
 Please use the generated passwords responsibly and ensure that you store them securely.
 
-### Running the Script
-
-Run the script using the following command:
-
-```bash
-python password_generator.py
-```
 
 ### License
 This project is licensed under the MIT License. Feel free to modify and use the code according to the terms of the license.
